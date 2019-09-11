@@ -1,5 +1,7 @@
 ## Some bullshit
 
+![sample](https://github.com/wusongchao/fast-rcnn-pytorch-pdf-table/blob/master/sample.png)
+
 This is Fast-RCNN, not Faster-RCNN, and doesn't adopt some advanced methods like ROI Align(Mask-RCNN) or PSROI(R-FCN). 
 Based on PyTorch 0.4.0(When i finish this, the 1.0 version had not come up).
 
